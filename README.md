@@ -3,6 +3,7 @@
 A Telegram bot that tracks your learning progress across 5 evidence-based dimensions, gives you AI-powered feedback after every session, and automatically logs everything to Notion.
 
 Built on the **Meta-Learning Mastery Framework** — the same framework used by high-performance learners to identify and fix the real bottlenecks in their study habits.
+Also you can change the metarials by editing bot.py file to match your goals.
 
 NOTE: API TOKENS IN HISTORY REVOKED LOL DON'T TRY :) 
 ---
