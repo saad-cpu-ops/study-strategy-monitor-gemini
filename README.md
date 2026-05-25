@@ -1,4 +1,4 @@
-# study-strategy-monito
+# study-strategy-monitor
 this is telegram bot to track and improve my study strategy and follow the five dimintions 
 # Study Coach Bot — Setup Guide
 
