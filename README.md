@@ -4,6 +4,7 @@ A Telegram bot that tracks your learning progress across 5 evidence-based dimens
 
 Built on the **Meta-Learning Mastery Framework** — the same framework used by high-performance learners to identify and fix the real bottlenecks in their study habits.
 
+NOTE: API TOKENS IN HISTORY REVOKED LOL DON'T TRY :) 
 ---
 
 ## 📸 How it looks
